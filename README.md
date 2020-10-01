@@ -15,3 +15,6 @@ const UNITS  = "metric"; // Optional
 # Usage
 
 After starting the server open the ```index.php``` file and search desired city in input.
+
+# Live Demo 
+http://kamilhs.alwaysdata.net/openweathermapapi/
